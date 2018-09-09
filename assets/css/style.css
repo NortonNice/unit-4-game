@@ -1,0 +1,29 @@
+#crystals {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#crystal-header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkred;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    left: 50%;
+
+}
+
+#number {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(49, 110, 21, 0.568);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    left: 50%;
+
+}
+
+body {
+    background-color: rgb(185, 182, 182);
+}
